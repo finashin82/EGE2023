@@ -1,0 +1,6 @@
+import math # Импорт модуля со всеми функциями
+
+from math import sqrt # Подключение конкретной функции из модуля
+
+from func.def_convert import convert # Для модуля def_convert из папки в проекте func
+импорт функции convert (из модуля def_convert)
